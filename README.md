@@ -4,14 +4,19 @@
 > 좋아하는 일을 찾자
 
 ## 🖼️ 팀 포스터
-
-<div class="poster">
-  <img src="poster.jpg" alt="LIFE - Follow Your Passion 팀 포스터" width="600"/>
-</div>
-
-<p align="center" class="poster-caption">
-  <sub>팀 포스터: LIFE, FOLLOW YOUR PASSION</sub>
+<p align="center">
+  <img src="./poster.jpg" alt="LIFE - Follow Your Passion 팀 포스터" width="600">
 </p>
+
+<p align="center">
+  <sub>
+    포스터 참고 자료:
+    <a href="https://www.superookie.com/contents/59e36fc88b129f15c76d92bf">
+      슈퍼루키 - 좋아하는 일을 찾는 방법
+    </a>
+  </sub>
+</p>
+
 
 ***
 
